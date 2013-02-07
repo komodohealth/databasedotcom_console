@@ -20,4 +20,4 @@ You can also execute a prewritten script:
 ```
 
 For more information about the API available for querying and editing your data, check out https://github.com/heroku/databasedotcom
-If you're new to Ruby, I suggest spending 20 minutes at www.tryruby.org.  It could add years to your life.
+If you're new to Ruby, I suggest spending 20 minutes at www.tryruby.org.  It could add years to your life!
